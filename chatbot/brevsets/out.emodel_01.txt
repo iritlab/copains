@@ -1,0 +1,28 @@
+B. solve not asked 
+Starting the process 
+
+
+1
+0 - Propositional Language :  ((¬bigand $i,$j in [0..2],[0..2]:
+fv1($j)
+end
+ ⋁ ¬bigand $i,$j in [0..2],[0..2]:
+x_cost_high_x($j)
+end
+) ⋁ bigand $i,$j in [0..2],[0..2]:
+x_soc_mixed_x($j)
+end
+)
+
+
+ Translation to L_Prop completed ... 
+
+1 x_soc_mixed_x(2)
+0 fv1(0)
+1 x_soc_mixed_x(0)
+0 fv1(1)
+1 x_soc_mixed_x(1)
+0 x_cost_high_x(1)
+0 x_cost_high_x(0)
+0 x_cost_high_x(2)
+0 fv1(2) 

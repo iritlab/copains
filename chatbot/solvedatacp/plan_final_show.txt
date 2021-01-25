@@ -1,0 +1,5 @@
+soc_mixed
+loc_mixed
+intens_med
+env_land
+ideal_te

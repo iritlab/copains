@@ -1,0 +1,6 @@
+$Delta0   	= ["ass(env,land)",
+"ass(intens,med)",
+"not ass(loc,indoor)",
+"ass(env,land)",
+"ass(cost,high) => ass(soc,mixed)"
+]
